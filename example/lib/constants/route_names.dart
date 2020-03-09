@@ -1,4 +1,4 @@
 class RouteNames {
-  static const String home = '/';
-  static const String itemDetails = '/itemDetails';
+  static const String home = '/home';
+  static const String itemDetails = '/home/itemDetails';
 }
